@@ -1,0 +1,9 @@
+c:\users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\bin\Debug\AutoMouser.exe
+c:\users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\bin\Debug\AutoMouser.pdb
+c:\users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\AutoMouser.exe
+c:\users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\AutoMouser.pdb
+C:\Users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\bin\Debug\ManagedWinapi.dll
+C:\Users\mslanker\documents\visual studio 2010\Projects\AutoMouser\AutoMouser\obj\x86\Debug\AutoMouser.Properties.Resources.resources

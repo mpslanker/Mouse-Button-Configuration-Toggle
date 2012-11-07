@@ -1,0 +1,9 @@
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\bin\Debug\MouseButtonConfigurationToggle.exe
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\bin\Debug\MouseButtonConfigurationToggle.pdb
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\bin\Debug\ManagedWinapi.dll
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\MouseButtonConfigurationToggle.Properties.Resources.resources
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\MouseButtonConfigurationToggle.exe
+C:\Users\mslanker\Documents\Visual Studio 2010\Projects\MouseButtonConfigurationToggle\MouseButtonConfigurationToggle\obj\x86\Debug\MouseButtonConfigurationToggle.pdb
