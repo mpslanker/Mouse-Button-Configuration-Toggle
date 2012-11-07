@@ -8,3 +8,5 @@ which orientation is currently activated.  Pressing the shortcut will prompt a b
 of the new orientation.
 
 If you have any questions please feel free to contact me at dev@msitp.com
+
+Currently requires Managed Windows API (http://mwinapi.sourceforge.net/) for Global Hotkey.
