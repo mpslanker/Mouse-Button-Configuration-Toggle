@@ -10,3 +10,6 @@ of the new orientation.
 If you have any questions please feel free to contact me at dev@msitp.com
 
 Currently requires Managed Windows API (http://mwinapi.sourceforge.net/) for Global Hotkey.
+
+Please note. This was thrown together at the request of a friend and although it works, it is very ugly.
+I plan on following proper practices and cleaning this up.  So please be kind. :)
